@@ -2,10 +2,10 @@
 	"name": "testing",
 	"version": "3.1.0",
 	"description": "Simple asynchronous testing framework. Never again count your asserts! This tiny testing library is fully callback-based and has a rich API for asserts.",
-	"homepage": "https://github.com/alexfernandez/testing",
+	"homepage": "https://github.com/jalu017/testing",
 	"type": "module",
 	"contributors": [
-		"Alex Fernández <alexfernandeznpm@gmail.com>"
+		"bebek nganjian <bebeknganjian@gmail.com>"
 	],
 	"license": "MIT",
 	"main": "index.js",
